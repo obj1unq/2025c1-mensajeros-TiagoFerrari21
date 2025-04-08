@@ -1,9 +1,4 @@
-/** First Wollok example */
-object wollok {
-	method howAreYou() {
-		return 'I am Wolloktastic!'
-	}
-}
+
 
 object sistema {
 	method puedeSer_EntregadoPor_A_(paquete, mensajero, destino) {
