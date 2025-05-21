@@ -67,9 +67,9 @@ object neo {
 }
 
 object lincolnHawk {
-	var peso = 85
+	const peso = 85
 	var vehiculo = bicicleta
-	var puedeLlamar = false
+	const puedeLlamar = false
 	
 	method vehiculo(_vehiculo) {
 		vehiculo = _vehiculo
